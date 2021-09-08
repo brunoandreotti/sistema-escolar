@@ -1,8 +1,8 @@
 const express = require('express')
 const app = express()
-const alunoRoutes = require('./routes/alunos')
-const profRoutes = require('./routes/professores')
-const funcioRoutes = require('./routes/funcionarios')
+const alunoRoutes = require('./src/routes/alunos')
+const profRoutes = require('./src/routes/professores')
+const funcioRoutes = require('./src/routes/funcionarios')
 
 app.use('/alunos', alunoRoutes)
 app.use('/professores', profRoutes)
