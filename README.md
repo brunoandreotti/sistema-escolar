@@ -25,9 +25,9 @@ Alunos, professores e funcionários possuem rotas diferentes onde: <br><br>
 /professores => Rota referente aos professores. <br>
 /funcionarios => Rota referente aos funcionários. <br>
 
-Para cada rota acima, é possível listar, adicionar ou remover um aluno/professor/funcinário:
+Para cada rota acima, é possível listar, adicionar ou remover um aluno/professor/funcináorio:
 
-<b>[GET] </b> -> /**/all : A rota deverá listar todos os alunos ou professores ou funcionários cadastrados.<br>
+<b>[GET] </b> -> /**/all : A rota deverá listar todos os alunos, professores ou funcionários cadastrados.<br>
 
 <b>[POST] </b> -> /**/new :  A rota deverá adicionar um novo aluno, professor ou funcionário. <br><br>
  -> Ao cadastrar um novo aluno, a rota deverá receber nome(name) e nota(score) dentro de um objeto JSON no corpo da requisição. O dado deverá ser armazedo dentro de um objeto com o seguinte formato: {name: 'nomeDoAluno', score: 10}.<br><br>
