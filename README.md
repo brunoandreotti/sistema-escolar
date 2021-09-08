@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHNjaG9vbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Logo" width="200">
 
-  <h3 align="center">Sistema de Gerenciamento Escolar</h3>
+  <h3 align="center">API para Sistema de Gerenciamento Escolar</h3>
  
  <p align="center">
   <a href="#sobre"> Sobre </a> |
@@ -16,7 +16,7 @@
  
 
 # Sobre
-A ideia do projeto foi criar um sistema de gerenciamento escolar onde é possível ver a lista, adicionar ou remover alunos, professores e funcionários de uma escola com a finalidade de colocar em prática os conhecimentos em Node.js e Express que tenho atualmente!
+A ideia do projeto foi criar uma API de sistema de gerenciamento escolar onde é possível ver a lista, adicionar ou remover alunos, professores e funcionários de uma escola com a finalidade de colocar em prática os conhecimentos em Node.js e Express que tenho atualmente!
 
 
 # Rotas da aplicação:
