@@ -16,7 +16,7 @@
  
 
 # Sobre
-A ideia do projeto foi criar uma API de sistema de gerenciamento escolar onde é possível ver a lista, adicionar ou remover alunos, professores e funcionários de uma escola com a finalidade de colocar em prática os conhecimentos em Node.js e Express que tenho atualmente!
+A ideia do projeto foi criar uma API de sistema de gerenciamento escolar onde é possível ver a lista, adicionar ou remover alunos, professores e funcionários de uma escola com a finalidade de colocar em prática os conhecimentos iniciais em Node.js e Express que tenho atualmente!
 
 
 # Rotas da aplicação:
